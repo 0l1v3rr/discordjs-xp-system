@@ -1,5 +1,5 @@
 # discordjs-xp-system
-Simple open source discord.js XP bot with Leaderboard. (json)
+Simple open source discord.js XP bot with Leaderboard. (.json)
 # Setup:
 1. Download node.js (https://nodejs.org/)
 2. Open a terminal that points to your folder (cd C:\Users\name\.....) --> type these commands:
