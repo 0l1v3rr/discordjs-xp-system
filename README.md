@@ -9,5 +9,5 @@ Simple open source discord.js XP bot with Leaderboard.
 ----------
 - Make sure you have fs. 
  - `const fs = require('fs');`
- - Make sure you have `{}` in your xp.json file.
- - Make sure you entered your token
+- Make sure you have `{}` in your xp.json file.
+- Make sure you entered your token
