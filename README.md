@@ -8,6 +8,6 @@ Simple open source discord.js XP bot with Leaderboard.
 5. Open the index.js file and edit the marked parameters as described there
 ----------
 - Make sure you have fs. 
- - `const fs = require('fs');`
+  - `const fs = require('fs');`
 - Make sure you have `{}` in your xp.json file.
 - Make sure you entered your token
